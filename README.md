@@ -147,10 +147,6 @@ If you wish to re-train the model and regenerate the artifacts:
 *   Implement model-agnostic explainability methods (SHAP, LIME).
 *   Analyze temporal patterns if time-series data becomes available.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
-
 ## Acknowledgements
 
 *   The EMSCAD dataset provided by the Laboratory of Information & Communication Systems Security at the University of the Aegean.
